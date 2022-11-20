@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somrajroy
 - 👀 I’m interested in SAP S/4HANA, Cloud, Terraform/IaC & DevOps
-- 🌱 I’m currently learning S/4HANA, AWS, Azure & Terraform.
+- 🌱 I’m always learning as there is lot to learn :-(.
 - 💞️ I’m looking to collaborate on New technologies mentioned above
 - 📫 How to reach me hisomraj@gmail.com
 
