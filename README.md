@@ -1,4 +1,5 @@
 - Experienced Software Architect specializing in Cloud, DevOps & Generative AI.
+- Buy me a coffee if you like my content https://www.buymeacoffee.com/somrajroy
 
 
 <!---
