@@ -1,4 +1,4 @@
-- Experienced Software Architect specializing in Cloud, DevOps, Generative AI & Data Platforms.
+- Experienced Software Architect specializing in Cloud, DevOps, Generative AI, AI Agents & Data Platforms.
 - Buy me a coffee if you like my content https://www.buymeacoffee.com/somrajroy
 
 
